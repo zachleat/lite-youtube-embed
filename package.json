@@ -1,5 +1,5 @@
 {
-  "name": "lite-youtube-embed",
+  "name": "@zachleat/lite-youtube-embed",
   "version": "0.3.0",
   "description": "A faster youtube embed.",
   "license": "Apache-2.0",
