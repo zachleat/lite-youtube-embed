@@ -1,13 +1,16 @@
 {
   "name": "@zachleat/lite-youtube-embed",
   "version": "0.3.0",
-  "description": "A faster youtube embed.",
+  "description": "A faster youtube embed. Temporary fork of paulirish/lite-youtube-embed",
   "license": "Apache-2.0",
   "main": "src/lite-yt-embed.js",
   "style": "src/lite-yt-embed.css",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulirish/lite-youtube-embed.git"
+    "url": "git+https://github.com/zachleat/lite-youtube-embed.git"
   },
   "keywords": [
     "youtube",
@@ -16,9 +19,9 @@
   ],
   "author": "Paul Irish",
   "bugs": {
-    "url": "https://github.com/paulirish/lite-youtube-embed/issues"
+    "url": "https://github.com/zachleat/lite-youtube-embed/issues"
   },
-  "homepage": "https://github.com/paulirish/lite-youtube-embed#readme",
+  "homepage": "https://github.com/zachleat/lite-youtube-embed#readme",
   "readme": "readme.md",
   "files": [
     "src/**",
